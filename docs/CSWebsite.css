@@ -106,7 +106,7 @@
 
 html {
     scroll-behavior: smooth;
-    background: url("background.png");
+    background: url("assets/images/background.png");
 }
 
 .navBar {
