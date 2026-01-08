@@ -1,4 +1,4 @@
-ht@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lora:ital,wght@0,400;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lora:ital,wght@0,400;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Zetta:wght@100..900&family=Lora:ital,wght@0,400;1,400&family=Nunito+Sans:wdth,wght@75..125,200..1000&display=swap');
 * {
             margin: 0;
@@ -106,7 +106,7 @@ ht@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&famil
 
 html {
     scroll-behavior: smooth;
-    background: #76cacf;
+    background-color: #62a0a3;
 }
 
 .navBar {
