@@ -106,7 +106,7 @@ ht@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&famil
 
 html {
     scroll-behavior: smooth;
-    background: url("../images/bggrad.png");
+    background: #76cacf;
 }
 
 .navBar {
