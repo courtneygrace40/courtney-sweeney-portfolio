@@ -106,8 +106,13 @@
 
 html {
     scroll-behavior: smooth;
-    background-color: #62a0a3;
+    background-color: #e5e5f7;
+    opacity: 1;
+    background-image: radial-gradient(circle at center center, #296d37, #e5e5f7), repeating-radial-gradient(circle at center center, #296d37, #296d37, 10px, transparent 20px, transparent 10px);
+    background-blend-mode: multiply;
 }
+
+
 
 .navBar {
   list-style-type: none;
