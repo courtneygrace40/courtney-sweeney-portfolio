@@ -106,10 +106,7 @@
 
 html {
     scroll-behavior: smooth;
-    background-color: #e5e5f7;
-    opacity: 1;
-    background-image: radial-gradient(circle at center center, #296d37, #e5e5f7), repeating-radial-gradient(circle at center center, #296d37, #296d37, 10px, transparent 20px, transparent 10px);
-    background-blend-mode: multiply;
+    background: radial-gradient(ellipse at 50% 50%,#29562d, #45a64d, #85d38a)
 }
 
 
